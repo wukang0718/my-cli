@@ -1,12 +1,15 @@
 {
   "name": "zkr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "vue"],
+  "keywords": [
+    "cli",
+    "vue"
+  ],
   "author": "wukang0718",
   "license": "ISC",
   "dependencies": {
