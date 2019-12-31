@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cli", "vue"],
+  "author": "wukang",
   "license": "ISC",
   "dependencies": {
     "cac": "^6.5.3",
