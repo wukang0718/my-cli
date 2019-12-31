@@ -1,13 +1,13 @@
 {
-  "name": "jt",
-  "version": "1.0.0",
+  "name": "zkr",
+  "version": "1.0.1",
   "description": "",
   "bin": "bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["cli", "vue"],
-  "author": "wukang",
+  "author": "wukang0718",
   "license": "ISC",
   "dependencies": {
     "cac": "^6.5.3",
